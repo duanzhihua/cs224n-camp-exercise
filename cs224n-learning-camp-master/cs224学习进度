@@ -1,0 +1,25 @@
+cs224 学习进度
+Week1
+自然语言处理和深度学习简介
+课件: lecture01
+观看视频1 OK
+学习笔记：自然语言处理与深度学习简介
+=======================================
+词的向量表示1：
+课件: lecture02
+观看视频2
+学习笔记：wordvecotor 词的向量表示：word2vec  进行中！
+http://www.hankcs.com/nlp/word-vector-representations-word2vec.html
+拓展内容 数学推导 继续
+http://www.hankcs.com/nlp/word2vec.html#h3-5
+skip gram清晰了
+https://www.leiphone.com/news/201706/PamWKpfRFEI42McI.html
+========================================
+论文导读：一个简单但很难超越的Sentence Embedding基线方法
+论文原文: paper
+论文分析: highlight
+论文笔记：Sentence Embedding
+======================================
+作业：Assignment 1.1-1.2
+1.1 Softmax 算法
+1.2 Neural Network Basics 神经网络基础实现
